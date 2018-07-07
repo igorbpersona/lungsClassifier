@@ -1,0 +1,9 @@
+# Hashes of file build rules.
+cd63517631d0b21aa985e960e06fad0f CMakeFiles/lint
+bb92e2cafdd7adf403dff19408317348 CMakeFiles/pytest
+a8ef4f95fb1742c22d88b550b7940d8b CMakeFiles/symlink_to_build
+51c5264ee1f9da7503a6155733eef5bd CMakeFiles/uninstall
+28be673703c75d1dbb82a87a13e5d135 docs/CMakeFiles/docs
+6ae449987661b5d43aaa653222677e7f docs/CMakeFiles/jekyll
+48ffb91c7bbdb2d3692d12df560629d3 include/caffe/proto/caffe.pb.cc
+e82a8d48c16d5d81326e491ac8953d5e src/caffe/test/CMakeFiles/runtest
